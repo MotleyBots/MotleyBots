@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MotleyBots
-- 👀 I’m interested in project management & Dapps
-- 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on NFTs, web3 gaming
+- 👀 I’m interested in web3
+- 🌱 I’m currently learning the ropes of becoming a fullstack dapp developer
+- 💞️ I’m looking to collaborate on things that increase web3 accessibility
 - 📫 Tweet @MotleyBots & check out motleybots.com to learn more about me and get in touch.
