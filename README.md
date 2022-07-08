@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @MotleyBots
-- 👀 I’m interested in web3
-- 🌱 I’m currently learning the ropes of becoming a fullstack dapp developer
-- 💞️ I’m looking to collaborate on things that increase web3 accessibility
-- 📫 Tweet @MotleyBots & check out motleybots.com to learn more about me and get in touch.
+- 👋 Howdy, I’m @MotleyBots!
+- 👀 Check out www.edenlans.com to see what I've been working on currently.
+- 📫 Tweet @MotleyBots & check out www.motleybots.com to learn more about me and get in touch.
